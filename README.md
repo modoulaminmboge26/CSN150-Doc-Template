@@ -26,6 +26,10 @@ Note your problems or errors here.  Google any error you may come across, and no
 **Problem:** E (485) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
 Camera init failed with error 0x105
 **Solution:**
+E (36) camera: Detected camera not supported.
+E (36) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106.
+How did i solve:
 
 ### Example Problem
 **Problem:** Arduino code will not load on ESP32 Cam.
